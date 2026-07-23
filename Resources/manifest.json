@@ -1,0 +1,12 @@
+{
+  "namespace": "SaigoNoTanuki",
+  "name": "GyaruHitSFX",
+  "description": "A R.E.P.O. mod that plays a \"Gyaru\"(Ado) sound after being hit.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "Zehs-REPOLib-4.2.0"
+  ],
+  "website_url": "https://github.com/SaigoNoTanuki/GyaruHitSFX",
+  "FullName": "SaigoNoTanuki-GyaruHitSFX"
+}
